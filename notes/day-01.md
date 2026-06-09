@@ -5,4 +5,4 @@
 - Profile README live on GitHub
 - learning-journal repo created and pushed
 - Node.js installed
-- Claude Code installed
+- Claude Code installed 
